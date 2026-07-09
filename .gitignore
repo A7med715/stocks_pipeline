@@ -1,0 +1,10 @@
+.env
+__pycache__/
+data/raw/
+.venv/
+*.pyc
+*.pycache
+__pycache__/
+*.pyc
+git rm -r --cached .
+git add .
